@@ -42,3 +42,11 @@ td, th {border: solid 1px;
     text-align: center;}
 tr {background-color:rgb(137, 211, 134) ;}
 tr:nth-child(even) {background-color: #e2e2e2;}
+.speech:hover,
+.direction:hover,
+.TROFIMOV:hover,
+.PISCHIN:hover,
+.VARYA:hover{
+    text-shadow: 2px 2px 4px yellow;
+    border: 2px solid green;
+}
